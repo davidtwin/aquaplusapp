@@ -23,5 +23,6 @@ test:
   <<: *default
   database: aquaplus_api
 
-
+production:
+    url: <%= ENV['DATABASE_URL'] %>
 
