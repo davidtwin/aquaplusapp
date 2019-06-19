@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  delivery_note: one
+  invoice_number: MyString
+  delivery_note: MyString
+  account_name: MyString
+  total_net: MyString
+  vat: MyString
+  total_gross: MyString
+
+two:
+  customer: two
+  delivery_note: two
+  invoice_number: MyString
+  delivery_note: MyString
+  account_name: MyString
+  total_net: MyString
+  vat: MyString
+  total_gross: MyString

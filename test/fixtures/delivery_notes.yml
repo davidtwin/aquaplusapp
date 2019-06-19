@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  water: one
+  customer: one
+  delivery_number: MyString
+  item: MyString
+  quantity: MyString
+  purchase_order: MyString
+  date_ordered: MyString
+  date_due: MyString
+  date_delivered: MyString
+  time_delivered: MyString
+  notes: MyString
+  driver: MyString
+  signature_strip: MyString
+  payment: MyString
+
+two:
+  water: two
+  customer: two
+  delivery_number: MyString
+  item: MyString
+  quantity: MyString
+  purchase_order: MyString
+  date_ordered: MyString
+  date_due: MyString
+  date_delivered: MyString
+  time_delivered: MyString
+  notes: MyString
+  driver: MyString
+  signature_strip: MyString
+  payment: MyString

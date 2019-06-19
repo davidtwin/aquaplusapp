@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  delivery_notes: one
+  driver_account_number: MyString
+  driver_name: MyString
+  reg_number: MyString
+
+two:
+  delivery_notes: two
+  driver_account_number: MyString
+  driver_name: MyString
+  reg_number: MyString
